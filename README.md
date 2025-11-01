@@ -2,6 +2,9 @@
 
 Visualize JSON as a tree using React Flow (React + TypeScript + Tailwind).
 
+# Live Demo
+  https://alpit4.github.io/jsonformatter/
+  
 ## Features
 
 - JSON input with validation
